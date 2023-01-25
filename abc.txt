@@ -1,0 +1,6 @@
+git status
+
+
+cd ..
+cd 
+cd Desktop
